@@ -1,5 +1,5 @@
 # compare_folders
-Script which compares two folders and lists files presents in one but missing in the other and vice-versa
+Script which compares recursively two folders and lists files presents in one but missing in the other and vice-versa
 
 
 ## Example of screenshot :
